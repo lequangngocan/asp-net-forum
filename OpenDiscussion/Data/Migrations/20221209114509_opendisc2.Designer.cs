@@ -12,7 +12,7 @@ using OpenDiscussion.Data;
 namespace OpenDiscussion.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20221209114509_opendisc2")]
+    [Migration("220230315131531_opendisc2")]
     partial class opendisc2
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

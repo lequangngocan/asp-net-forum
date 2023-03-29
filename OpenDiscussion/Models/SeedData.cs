@@ -82,6 +82,13 @@ namespace OpenDiscussion.Models
                     RoleId = "0f0190ec-276c-41d7-9398-25c4e1714483",
                     UserId = "88744e5d-7de5-482f-b3e8-e818a5605e17"
                 });
+                context.Categories.AddRange(
+                new Category
+                {
+                    Name = "Learning",
+                    Description = "Ehou Learning"
+                }
+                );
                 Profile profileAdmin = new Profile();
                 profileAdmin.ApplicationUserId = "88744e5d-7de5-482f-b3e8-e818a5605e17";
                 profileAdmin.Avatar = "https://st3.depositphotos.com/1767687/16607/v/450/depositphotos_166074422-stock-illustration-default-avatar-profile-icon-grey.jpg";

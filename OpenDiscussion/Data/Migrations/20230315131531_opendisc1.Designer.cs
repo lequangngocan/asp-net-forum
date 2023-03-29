@@ -12,8 +12,8 @@ using OpenDiscussion.Data;
 namespace OpenDiscussion.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20221206173727_v1")]
-    partial class v1
+    [Migration("20230315131531_opendisc1")]
+    partial class opendisc1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

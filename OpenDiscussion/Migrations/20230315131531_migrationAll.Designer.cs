@@ -12,7 +12,7 @@ using OpenDiscussion.Data;
 namespace OpenDiscussion.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20221228131531_migrationAll")]
+    [Migration("20230315131531_migrationAll")]
     partial class migrationAll
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

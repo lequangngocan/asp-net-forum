@@ -19,12 +19,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Remove="Data\Migrations\20221206173727_v1.cs" />
-    <Compile Remove="Data\Migrations\20221206173727_v1.Designer.cs" />
-    <Compile Remove="Data\Migrations\20221209114124_opendisc1.cs" />
-    <Compile Remove="Data\Migrations\20221209114124_opendisc1.Designer.cs" />
-    <Compile Remove="Data\Migrations\20221209114509_opendisc2.cs" />
-    <Compile Remove="Data\Migrations\20221209114509_opendisc2.Designer.cs" />
+    <Compile Remove="Data\Migrations\20230315131531_v1.cs" />
+    <Compile Remove="Data\Migrations\20230315131531_v1.Designer.cs" />
+    <Compile Remove="Data\Migrations\20230315131531_opendisc1.cs" />
+    <Compile Remove="Data\Migrations\20230315131531_opendisc1.Designer.cs" />
+    <Compile Remove="Data\Migrations\20230315131531_opendisc2.cs" />
+    <Compile Remove="Data\Migrations\20230315131531_opendisc2.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
